@@ -17,7 +17,7 @@ print(type(my_tuple))
 
 print(my_tuple[0])
 print(my_tuple[-1])
-# print(my_tuple[4]) IndexError
+# print(my_tuple[5]) IndexError
 # print(my_tuple[-6]) IndexError
 
 print(my_tuple.count("Brais"))
